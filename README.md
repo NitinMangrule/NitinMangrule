@@ -12,15 +12,14 @@
 </div>
 <br>
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at BlackRock to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
-
+<br>
 - 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/nitin-mangrule). You can also send me a mail to ndmangrule@gmail.com.
-
+<br>
 - 🔗 I have a personal website at [https://the-web-geek.netlify.app/]
- 
+<br>
 - 💬 Ask me about **Angular, React, TypeScript and JavaScript**
-
+<br>
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
 <br>
 
  <!--- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NitinMangrule&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/> --->
