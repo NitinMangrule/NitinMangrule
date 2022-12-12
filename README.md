@@ -6,10 +6,10 @@
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=NitinMangrule" alt="NitinMangrule" /></p>
 </div>
+<br>
+<img align="center" height="350" width="400" alt="GIF" src="./assets/developer.gif"/>
 
-<img align="left" height="350" width="400" alt="GIF" src="./assets/developer.gif"/>
-
-
+<br>
 - 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at BlackRock to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 - 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/nitin-mangrule). You can also send me a mail to ndmangrule@gmail.com.
