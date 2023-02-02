@@ -15,10 +15,10 @@
  I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 <br>
 <br><br>
-- 📫 The best way to reach me over is [Linkedin](https://linkedin.com/in/nitin-mangrule). You can also send me a mail to ndmangrule@gmail.com.
-<br>
+- 📫 The best way to reach me over is <a href="https://www.linkedin.com/in/nitin-mangrule/">LinkedIn</a>. You can also send me a mail to ndmangrule@gmail.com.
+<br> 
 <br><br>
-- 🔗 I have a personal website at [https://the-web-geek.netlify.app/]
+- 🔗 I have a personal website at <a href="https://the-web-geek.netlify.app/">TWG</a>
 <br>
 <br><br>
 - 💬 Ask me about <b> Angular, React, TypeScript and JavaScript </b>
