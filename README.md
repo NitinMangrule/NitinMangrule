@@ -21,7 +21,7 @@
 - 🔗 I have a personal website at <a href="https://the-web-geek.netlify.app/">TWG</a>
 <br>
 <br><br>
-- 💬 Ask me about <b> Angular, React, TypeScript and JavaScript </b>
+- 💬 Ask me about <b> NextJS, ReactJS, Angular, TypeScript and JavaScript </b>
 <br>
 <br><br>
 - ⚡ Fun fact <b> Chai tastes way better than Coffee | Change my mind! </b>
