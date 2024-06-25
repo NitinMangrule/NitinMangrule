@@ -18,7 +18,7 @@
 - 📫 The best way to reach me over is <a href="https://www.linkedin.com/in/nitin-mangrule/">LinkedIn</a>. You can also send me a mail to ndmangrule@gmail.com.
 <br> 
 <br><br>
-- 🔗 I have a personal website at <a href="https://the-web-geek.netlify.app/">TWG</a>
+- 🔗 I have a personal website at <a href="https://nitin-mangrule.netlify.app/">TWG</a>
 <br>
 <br><br>
 - 💬 Ask me about <b> NextJS, ReactJS, Angular, TypeScript and JavaScript </b>
