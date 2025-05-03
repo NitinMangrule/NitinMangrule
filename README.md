@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Mangrule...</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳 </h3>
+<h3 align="center">A passionate frontend Lead from India 🇮🇳 </h3>
 <div align=center>
   <a href="https://www.linkedin.com/in/nitin-mangrule/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/nitin_mangrule"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
