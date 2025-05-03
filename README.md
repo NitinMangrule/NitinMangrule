@@ -11,7 +11,7 @@
    <img align="center" height="350" width="400" alt="GIF" src="./assets/developer.gif"/>
 </div>
 <br>
-- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at BlackRock to deliver the quality products. <br>
+- 👨‍💻 I am a frontend Lead with focus on web fundamentals. I work at BlackRock to deliver the quality products. <br>
  I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 <br>
 <br><br>
