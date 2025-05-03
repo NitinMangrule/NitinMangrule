@@ -3,6 +3,9 @@
 <div align=center>
   <a href="https://www.linkedin.com/in/nitin-mangrule/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
   <a href="https://twitter.com/nitin_mangrule"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <a href="https://medium.com/@nitin.mangrule" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/354057/medium-icon.svg" title="Medium" alt="Medium Blog" width="36"/>
+  </a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=NitinMangrule" alt="NitinMangrule" /></p>
 </div>
