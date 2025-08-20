@@ -10,9 +10,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=NitinMangrule" alt="NitinMangrule" /></p>
 </div>
 <br>
-<div align=center>
-   <img align="center" height="350" width="400" alt="GIF" src="./assets/developer.gif"/>
-</div>
+
 <br>
 - 👨‍💻 I am a frontend Lead with focus on web fundamentals. I work at BlackRock to deliver the quality products. <br>
  I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
